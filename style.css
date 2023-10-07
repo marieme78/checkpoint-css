@@ -1,0 +1,48 @@
+section{display: inline;}
+body{
+    font-family: 'Roboto';
+    background-color: rgb(213, 181, 130);
+
+}
+body{background-color: rgb(182, 247, 247);}
+footer{border: 3px solid white;;background-color:black;color: white;}
+.codeur{width: 20%;}
+nav  a{ /* tous les liens a à l'intérieur de la balise nav */
+    float: left; /* effet flottant */
+    text-decoration: none; /* pas d'héritage avec effet souligné */
+    color: #ffffff; /* couleur du texte */
+    background: black; /* couleur de fond */
+    height: 50px; /* hauteur */
+    line-height: 33px; /* interligne */
+    padding: 0 30px; /* marges intérieur */
+    font-family: sans-serif; /* police d'écriture */
+    font-size: 13px; /* taille du texte */
+    transition: .5s; /* temps de transition lors du hover : une demi seconde */
+    margin-right: 0%;
+    width: 16%;
+    border: 5px solid whitesmoke;
+    }
+    nav  a:hover{ /* tous liens lors du survol dans la balise nav */
+    background:rgb(218, 84, 106) ; /* couleur de fond */
+    border-color: aliceblue;height: 100%;border-color: black;}
+    .centre{text-align: center;font-size: 500%;font-family: Georgia, 'Times New Roman', Times, serif;}
+    body{line-height: 200%;}
+    .image{text-align: left;border: 3px dashed black;padding: 0%;margin-right: 20%;}
+    .css{border: 3px solid black;text-align: center;margin-right: 40%;margin-left: 40%;background-color: black;color: whitesmoke;}
+    #formulaire{border: 3px solid  black;margin-right: 80%;outline-style: dashed;text-align: left;}
+    .centre{border: 3px dashed  black;padding-top: 3%;padding-bottom: 5%;padding-right: 0%;margin-left: 25%;margin-right: 25%;border-radius: 3%;}
+    footer{border-radius: 5%;margin left: 100%;}
+    .maDiv{display:flex}
+    #formulaire{padding-left: 10%;text-align:center ; background-color:rgb(243, 243, 93) }
+    .centre{background-color: rgb(218, 84, 106);}
+    #style{color: ;rgb(218, 84, 106) ;}
+    
+   
+    
+   
+
+
+
+    
+    
+   
